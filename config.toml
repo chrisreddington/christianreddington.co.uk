@@ -22,7 +22,10 @@ theme = "goa"
 
 [params]
     author = "Chris Reddington"
-    intro = "Some intro here coming soon"
-    description = "Some description here coming soon"
+    intro = "Welsh Tech Geek, Azure Advocate and Musical Theatre Enthusiast!"
+    description = "Please feel free to connect with / follow me on the below platforms, and also take a look through any of my updates below!"
     authorimage = "chris-headshot.jpg"
-    dateformat = "Jan 2, 2006"
+    dateformat = "Mon 2 Jan, 2006"
+
+[markup.goldmark.renderer]
+    unsafe= true
