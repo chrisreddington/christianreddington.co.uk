@@ -1,0 +1,28 @@
+baseURL = "https://www.christianreddington.co.uk/"
+languageCode = "en-gb"
+title = "Christian Reddington"
+theme = "goa"
+
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    weight = 200
+    url = "/about/"
+
+[params.extra]
+    copyright = "© 2020. Chris Reddington. [Some Rights Reserved](https://creativecommons.org/licenses/by/3.0/)."
+
+[params.social]
+    github = "christianreddington"
+    linkedin = "christianreddington"
+    twitter = "reddobowen"
+
+[params]
+    author = "Chris Reddington"
+    intro = "Some intro here coming soon"
+    description = "Some description here coming soon"
+    authorimage = "chris-headshot.jpg"
+    dateformat = "Jan 2, 2006"
