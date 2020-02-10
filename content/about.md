@@ -3,6 +3,8 @@ title: "About"
 toc: false
 ---
 
+  <link rel="stylesheet" type="text/css" href="./images.css" />
+
 ## Cloud Architect and DevOps / Cloud Native Engineer 
 
 Chris is currently a Senior Engineer on the FastTrack for Azure team. 
@@ -73,24 +75,3 @@ By night, Chris is a Musical Theatre Enthusiast. He has sat as committee member 
 Photo Credit - Godspell and Annie Photos credit to Mike Gribble. Jesus Christ Superstar photo credit to Richard Brown.
 
 Chris is  trying his hand at a new skill, improv! He has recently attended an intensive workshop with The Showstoppers, and is continuing to refine his skills with What's the game Improv! His vision is to merge the two areas together, and form a Musical Improv group in Reading, called [Theatreers](https://www.theatreers.com) - though this is a work in progress!
-
-<style>
-.row {
-  display: flex;
-}
-@media screen and (max-width: 500px) {
-  .column {
-    flex: 50%;
-    padding: 5px;
-  e}
-}
-
-
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 500px) {
-  .column {
-    width: 100%;
-  }
-}
-
-</style>
