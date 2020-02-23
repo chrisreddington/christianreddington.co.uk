@@ -4,8 +4,12 @@ title = "Christian Reddington"
 theme = "goa"
 
 [[menu.main]]
+    name = "Cloud with Chris (Podcast)"
+    weight = 200
+    url = "https://www.cloudwithchris.com"
+[[menu.main]]
     name = "blog"
-    weight = 100
+    weight = 200
     url = "/blog/"
 [[menu.main]]
     name = "about"
@@ -16,14 +20,14 @@ theme = "goa"
     copyright = "© 2020. Chris Reddington. [Some Rights Reserved](https://creativecommons.org/licenses/by/3.0/)."
 
 [params.social]
-    github = "christianreddington"
-    linkedin = "christianreddington"
+    github = "chrisreddington"
+    linkedin = "chrisreddington"
     twitter = "reddobowen"
 
 [params]
     author = "Chris Reddington"
-    intro = "Welsh Tech Geek, Azure Advocate and Musical Theatre Enthusiast!"
-    description = "Please feel free to connect with / follow me on the below platforms, and also take a look through any of my updates below!"
+    intro = "Welsh Tech Geek, Cloud Advocate, Musical Theatre Enthusiast and Improving Improviser!"
+    description = "Please feel free to connect with / follow me on the below platforms. I'd also love if you could follow my podcast on any platform of your choice, and the associated social media channels too!"
     authorimage = "chris-headshot.jpg"
     dateformat = "Mon 2 Jan, 2006"
 
